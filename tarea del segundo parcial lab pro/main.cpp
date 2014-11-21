@@ -23,6 +23,26 @@ int posX, posY;
 void loads();
 void saves();
 
+void loads()
+{
+    ifstream loadFile;
+    loadFile.open("Position.txt");;
+    loadFile >> posX;
+    loadFile >> posY;
+    loadFile.close();
+}
+
+void saves()
+{
+    ofstream saveFile;
+    saveFile.open("Position.txt");
+    stringstream px, py;
+    px<< (*personajes.begin())->rectangulo.x << endl;
+    py << (*personajes.begin())->rectangulo.y;
+    saveFile << px.str();
+    saveFile << py.str();
+    saveFile.close();
+}
 int main( int argc, char* args[] )
 {
     //Init SDL
@@ -110,23 +130,4 @@ int main( int argc, char* args[] )
 	return 0;
 }
 
-void loads()
-{
-    ifstream loadFile;
-    loadFile.open("Position.txt");;
-    loadFile >> posX;
-    loadFile >> posY;
-    loadFile.close();
-}
 
-void saves()
-{
-    ofstream saveFile;
-    saveFile.open("Posicion.txt");
-    stringstream px, py;
-    px<< (*personajes.begin())->rectangulo.x << endl;
-    py << (*personajes.begin())->rectangulo.y;
-    saveFile << px.str();
-    saveFile << py.str();
-    saveFile.close();
-}
