@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1417884742 source:/home/turupawn/Projects/Progra3/Examen2/Evaluador.cpp
+	"Evaluador.h"
+
+1417884442 /home/turupawn/Projects/Progra3/Examen2/Evaluador.h
+	<iostream>
+	<fstream>
+	<stack>
+	"Lista.h"
+	"ArbolTrinario.h"
+	<list>
+	<vector>
+
+1417880409 /home/turupawn/Projects/Progra3/Examen2/Lista.h
+	<iostream>
+	"Nodo.h"
+
+1417878006 /home/turupawn/Projects/Progra3/Examen2/Nodo.h
+	<iostream>
+
+1417878006 source:/home/turupawn/Projects/Progra3/Examen2/Lista.cpp
+	"Lista.h"
+
+1417884499 source:/home/turupawn/Projects/Progra3/Examen2/main.cpp
+	"Lista.h"
+	"ArbolTrinario.h"
+	"Evaluador.h"
+	<fstream>
+	<list>
+	<vector>
+	<math.h>
+
+1417878006 source:/home/turupawn/Projects/Progra3/Examen2/Nodo.cpp
+	"Nodo.h"
+
+1417883884 source:/home/turupawn/Projects/Progra3/Examen2/ArbolTrinario.cpp
+	"ArbolTrinario.h"
+
+1417883931 /home/turupawn/Projects/Progra3/Examen2/ArbolTrinario.h
+	<iostream>
+
+1417883884 source:/home/turupawn/Projects/Clases/Progra3/Examen2/ArbolTrinario.cpp
+	"ArbolTrinario.h"
+
+1417883931 /home/turupawn/Projects/Clases/Progra3/Examen2/ArbolTrinario.h
+	<iostream>
+
+1418318802 source:/home/turupawn/Projects/Clases/Progra3/Examen2/Evaluador.cpp
+	"Evaluador.h"
+
+1418318454 /home/turupawn/Projects/Clases/Progra3/Examen2/Evaluador.h
+	<iostream>
+	<fstream>
+	<stack>
+	"Lista.h"
+	"ArbolTrinario.h"
+	<list>
+	<vector>
+
+1418318885 /home/turupawn/Projects/Clases/Progra3/Examen2/Lista.h
+	<iostream>
+	"Nodo.h"
+
+1417878006 /home/turupawn/Projects/Clases/Progra3/Examen2/Nodo.h
+	<iostream>
+
+1417878006 source:/home/turupawn/Projects/Clases/Progra3/Examen2/Lista.cpp
+	"Lista.h"
+
+1418318399 source:/home/turupawn/Projects/Clases/Progra3/Examen2/main.cpp
+	"Lista.h"
+	"ArbolTrinario.h"
+	"Evaluador.h"
+	<fstream>
+	<list>
+	<vector>
+	<math.h>
+
+1417878006 source:/home/turupawn/Projects/Clases/Progra3/Examen2/Nodo.cpp
+	"Nodo.h"
+
+1418311722 source:c:\users\edlinandrea\desktop\series y anime\the flash\2014examen2-master\arboltrinario.cpp
+	"ArbolTrinario.h"
+
+1418311722 c:\users\edlinandrea\desktop\series y anime\the flash\2014examen2-master\arboltrinario.h
+	<iostream>
+
+1418311722 source:c:\users\edlinandrea\desktop\series y anime\the flash\2014examen2-master\evaluador.cpp
+	"Evaluador.h"
+
+1418311722 c:\users\edlinandrea\desktop\series y anime\the flash\2014examen2-master\evaluador.h
+	<iostream>
+	<fstream>
+	<stack>
+	"Lista.h"
+	"ArbolTrinario.h"
+	<list>
+	<vector>
+
+1418321220 c:\users\edlinandrea\desktop\series y anime\the flash\2014examen2-master\lista.h
+	<iostream>
+	"Nodo.h"
+
+1418311722 c:\users\edlinandrea\desktop\series y anime\the flash\2014examen2-master\nodo.h
+	<iostream>
+
+1418311722 source:c:\users\edlinandrea\desktop\series y anime\the flash\2014examen2-master\lista.cpp
+	"Lista.h"
+
+1418311722 source:c:\users\edlinandrea\desktop\series y anime\the flash\2014examen2-master\nodo.cpp
+	"Nodo.h"
+
+1418322189 source:c:\users\edlinandrea\desktop\series y anime\the flash\2014examen2-master\main.cpp
+	"Lista.h"
+	"ArbolTrinario.h"
+	"Evaluador.h"
+	<fstream>
+	<list>
+	<vector>
+	<math.h>
+	<string.h>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<algorithm>
+
