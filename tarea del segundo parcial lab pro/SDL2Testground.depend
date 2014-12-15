@@ -98,3 +98,36 @@
 1416537657 source:c:\users\edlinandrea\desktop\tarea del segundo parcial lab pro\personajejugador.cpp
 	"PersonajeJugador.h"
 
+1416590347 source:c:\users\edlinandrea\documents\github\programacion3\tarea del segundo parcial lab pro\main.cpp
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<list>
+	"PersonajeJugador.h"
+	"NPC.h"
+	<fstream>
+	<string>
+	<sstream>
+	<stdlib.h>
+
+1416411054 c:\users\edlinandrea\documents\github\programacion3\tarea del segundo parcial lab pro\personajejugador.h
+	"Personaje.h"
+
+1416537060 c:\users\edlinandrea\documents\github\programacion3\tarea del segundo parcial lab pro\personaje.h
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<list>
+
+1416411054 c:\users\edlinandrea\documents\github\programacion3\tarea del segundo parcial lab pro\npc.h
+	"Personaje.h"
+
+1416537423 source:c:\users\edlinandrea\documents\github\programacion3\tarea del segundo parcial lab pro\npc.cpp
+	"NPC.h"
+
+1416411054 source:c:\users\edlinandrea\documents\github\programacion3\tarea del segundo parcial lab pro\personaje.cpp
+	"Personaje.h"
+
+1416537657 source:c:\users\edlinandrea\documents\github\programacion3\tarea del segundo parcial lab pro\personajejugador.cpp
+	"PersonajeJugador.h"
+

@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="PersonajeJugador.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="NPC.cpp" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="122" topLine="0" />
+			<Cursor1 position="1053" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2623" topLine="191" />
-		</Cursor>
-	</File>
-	<File name="NPC2.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="318" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="NPC.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+	<File name="NPC.h" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="70" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="NPC3.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="NPC2.h" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="0" topLine="0" />
+			<Cursor1 position="318" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="NPC2.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="NPC2.cpp" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="754" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="Personaje.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="353" topLine="35" />
-		</Cursor>
-	</File>
-	<File name="NPC3.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="NPC3.cpp" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="984" topLine="23" />
 		</Cursor>
 	</File>
-	<File name="NPC.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+	<File name="NPC3.h" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1053" topLine="23" />
+			<Cursor1 position="0" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="PersonajeJugador.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+	<File name="Personaje.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="330" topLine="0" />
+			<Cursor1 position="353" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="Personaje.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+	<File name="Personaje.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="493" topLine="1" />
+			<Cursor1 position="507" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="PersonajeJugador.cpp" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1264" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="PersonajeJugador.h" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="122" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="12" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2288" topLine="96" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>

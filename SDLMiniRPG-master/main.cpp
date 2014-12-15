@@ -144,6 +144,8 @@ list<Personaje*>personajes;
                 i!=personajes.end();
                 i++)
             (*i)->render(renderer);
+
+
         int cont = 0;
         PersonajeJugador *v = new PersonajeJugador (450,0,renderer,&personajes);
         for(std::list<Personaje*>::iterator i = personajes.begin();i!=personajes.end();i++){

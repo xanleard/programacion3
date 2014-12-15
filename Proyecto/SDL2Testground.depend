@@ -557,13 +557,17 @@
 	<SDL2/SDL_image.h>
 	<iostream>
 
-1415389596 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/RPG/main.cpp
+1416599431 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/RPG/main.cpp
 	<SDL2/SDL.h>
 	<SDL2/SDL_image.h>
 	<iostream>
 	<list>
+	<vector>
+	<map>
+	<fstream>
 	"PersonajeJugador.h"
 	"NPC.h"
+	<stdlib.h>
 
 1415388167 /home/turupawn/Projects/Codeblocks/Clases/Progra3/RPG/Personaje.h
 	<SDL2/SDL.h>
@@ -574,10 +578,10 @@
 1415388412 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/RPG/Personaje.cpp
 	"Personaje.h"
 
-1415384187 /home/turupawn/Projects/Codeblocks/Clases/Progra3/RPG/PersonajeJugador.h
+1417204290 /home/turupawn/Projects/Codeblocks/Clases/Progra3/RPG/PersonajeJugador.h
 	"Personaje.h"
 
-1415389553 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/RPG/PersonajeJugador.cpp
+1417203591 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/RPG/PersonajeJugador.cpp
 	"PersonajeJugador.h"
 
 1415389693 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/RPG/NPC.cpp
@@ -586,93 +590,139 @@
 1415386936 /home/turupawn/Projects/Codeblocks/Clases/Progra3/RPG/NPC.h
 	"Personaje.h"
 
-1415939362 source:c:\users\edlinandrea\desktop\sdlminirpg-master\main.cpp
+1417197720 source:c:\users\edlinandrea\desktop\nuevo rpg clase\sdlminirpg-master\personaje.cpp
+	"Personaje.h"
+
+1417457431 c:\users\edlinandrea\desktop\nuevo rpg clase\sdlminirpg-master\personaje.h
 	<SDL.h>
 	<SDL2/SDL_image.h>
 	<iostream>
 	<list>
-	<algorithm>
+
+1418061763 source:c:\users\edlinandrea\desktop\nuevo rpg clase\sdlminirpg-master\personajejugador.cpp
+	"PersonajeJugador.h"
+
+1418061242 c:\users\edlinandrea\desktop\nuevo rpg clase\sdlminirpg-master\personajejugador.h
+	"Personaje.h"
+
+1418052667 source:c:\users\edlinandrea\desktop\nuevo rpg clase\sdlminirpg-master\main.cpp
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<list>
+	<vector>
+	<map>
+	<fstream>
 	"PersonajeJugador.h"
 	"NPC.h"
 	"NPC2.h"
 	"NPC3.h"
+	"NPC4.h"
 	<stdlib.h>
 
-1415918076 c:\users\edlinandrea\desktop\sdlminirpg-master\personajejugador.h
+1417197720 c:\users\edlinandrea\desktop\nuevo rpg clase\sdlminirpg-master\npc.h
 	"Personaje.h"
 
-1415931219 c:\users\edlinandrea\desktop\sdlminirpg-master\personaje.h
+1417533459 source:c:\users\edlinandrea\desktop\nuevo rpg clase\sdlminirpg-master\npc.cpp
+	"NPC.h"
+
+1417757784 c:\users\edlinandrea\desktop\nuevo rpg clase\sdlminirpg-master\npc2.h
+	"Personaje.h"
+
+1417800184 source:c:\users\edlinandrea\desktop\nuevo rpg clase\sdlminirpg-master\npc2.cpp
+	"NPC2.h"
+
+1417758188 c:\users\edlinandrea\desktop\nuevo rpg clase\sdlminirpg-master\npc3.h
+	"Personaje.h"
+
+1418061049 source:c:\users\edlinandrea\desktop\nuevo rpg clase\sdlminirpg-master\npc3.cpp
+	"NPC3.h"
+
+1417759864 source:c:\users\edlinandrea\desktop\nuevo rpg clase\sdlminirpg-master\npc4.cpp
+	"NPC4.h"
+
+1417759864 c:\users\edlinandrea\desktop\nuevo rpg clase\sdlminirpg-master\npc4.h
+	"Personaje.h"
+
+1418595006 source:c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc.cpp
+	"NPC.h"
+
+1417197720 c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc.h
+	"Personaje.h"
+
+1418591434 c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\personaje.h
 	<SDL.h>
 	<SDL2/SDL_image.h>
 	<iostream>
 	<list>
 
-1415382632 c:\users\edlinandrea\desktop\sdlminirpg-master\npc.h
-	"Personaje.h"
-
-1415929476 source:c:\users\edlinandrea\desktop\sdlminirpg-master\npc.cpp
-	"NPC.h"
-
-1415939431 source:c:\users\edlinandrea\desktop\sdlminirpg-master\personaje.cpp
-	"Personaje.h"
-
-1415931807 source:c:\users\edlinandrea\desktop\sdlminirpg-master\personajejugador.cpp
-	"PersonajeJugador.h"
-
-1415806682 c:\users\edlinandrea\desktop\sdlminirpg-master\npc2.h
-	"Personaje.h"
-
-1415853165 source:c:\users\edlinandrea\desktop\sdlminirpg-master\npc2.cpp
+1418609912 source:c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc2.cpp
 	"NPC2.h"
 
-1415853165 source:c:\users\edlinandrea\desktop\sdlminirpg-master\npc3.cpp
-	"NPC3.h"
-
-1415847702 c:\users\edlinandrea\desktop\sdlminirpg-master\npc3.h
+1417757784 c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc2.h
 	"Personaje.h"
 
-1415939362 source:c:\users\edlinandrea\documents\github\programacion3\sdlminirpg-master\main.cpp
+1418592205 source:c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc3.cpp
+	"NPC3.h"
+
+1417758188 c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc3.h
+	"Personaje.h"
+
+1418592205 source:c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc4.cpp
+	"NPC4.h"
+
+1417759864 c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc4.h
+	"Personaje.h"
+
+1417197720 source:c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\personaje.cpp
+	"Personaje.h"
+
+1418591437 source:c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\personajejugador.cpp
+	"PersonajeJugador.h"
+
+1418061242 c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\personajejugador.h
+	"Personaje.h"
+
+1418657331 source:c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\main.cpp
 	<SDL.h>
 	<SDL2/SDL_image.h>
 	<iostream>
 	<list>
-	<algorithm>
+	<vector>
+	<map>
+	<fstream>
 	"PersonajeJugador.h"
 	"NPC.h"
 	"NPC2.h"
 	"NPC3.h"
+	"NPC4.h"
+	"NPC5.h"
+	"NPC6.h"
+	"NPC7.h"
+	"NPC8.h"
 	<stdlib.h>
 
-1415918076 c:\users\edlinandrea\documents\github\programacion3\sdlminirpg-master\personajejugador.h
+1418572404 c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc5.h
 	"Personaje.h"
 
-1415931219 c:\users\edlinandrea\documents\github\programacion3\sdlminirpg-master\personaje.h
-	<SDL.h>
-	<SDL2/SDL_image.h>
-	<iostream>
-	<list>
+1418594176 source:c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc5.cpp
+	"NPC5.h"
 
-1415382632 c:\users\edlinandrea\documents\github\programacion3\sdlminirpg-master\npc.h
+1418576364 c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc6.h
 	"Personaje.h"
 
-1415806682 c:\users\edlinandrea\documents\github\programacion3\sdlminirpg-master\npc2.h
+1418594176 source:c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc6.cpp
+	"NPC6.h"
+
+1418578386 c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc7.h
 	"Personaje.h"
 
-1415847702 c:\users\edlinandrea\documents\github\programacion3\sdlminirpg-master\npc3.h
+1418594176 source:c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc7.cpp
+	"NPC7.h"
+
+1418599010 source:c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc8.cpp
+	"NPC8.h"
+
+1418598277 c:\users\edlinandrea\desktop\series y anime\the flash\sdlminirpg-master\npc8.h
 	"Personaje.h"
-
-1415929476 source:c:\users\edlinandrea\documents\github\programacion3\sdlminirpg-master\npc.cpp
-	"NPC.h"
-
-1415853165 source:c:\users\edlinandrea\documents\github\programacion3\sdlminirpg-master\npc2.cpp
-	"NPC2.h"
-
-1415853165 source:c:\users\edlinandrea\documents\github\programacion3\sdlminirpg-master\npc3.cpp
-	"NPC3.h"
-
-1415939431 source:c:\users\edlinandrea\documents\github\programacion3\sdlminirpg-master\personaje.cpp
-	"Personaje.h"
-
-1415931807 source:c:\users\edlinandrea\documents\github\programacion3\sdlminirpg-master\personajejugador.cpp
-	"PersonajeJugador.h"
 
